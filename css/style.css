@@ -1,0 +1,27 @@
+
+        .box-model{
+            border: 2px solid black;
+            border-radius: 20px;
+            margin: 5px 5px;
+            padding: 15px 15px;
+            text-align: center;
+            width: 33.33%;
+            height: ;
+            float: left;
+        }
+        .box-model .portfolio-img{
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+        }
+        .box-model h2{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 30px;
+            font-weight: 700;
+        }
+        .box-model p{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 14px;
+            font-weight: 400;
+
+        }
